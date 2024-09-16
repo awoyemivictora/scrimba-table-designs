@@ -1,0 +1,131 @@
+html,
+body {
+  margin: 0;
+  padding: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  font-size: 20px;
+}
+
+#c1 {
+  margin-bottom: 14px;
+  font-size: 30px;
+  text-align: left;
+}
+
+th {
+  background-color: #374d7c;
+  color: #fff;
+}
+
+table {
+  border-radius: 5px;
+  /* margin: 0 auto; */
+}
+
+#td1 {
+  background-color: #fdf289;
+}
+
+td,
+th {
+  padding: 10px 20px;
+}
+
+tfoot td {
+  background-color: #46edc8;
+  text-align: center;
+}
+
+/* SALARY TABLE*/
+#c2 {
+  margin: 30px;
+  margin-bottom: 14px;
+  font-size: 30px;
+  text-align: left;
+}
+
+#sth {
+  color: white;
+  background: #81007f;
+}
+
+#std1 {
+  color: white;
+  background: #fc0000;
+}
+
+#std2 {
+  color: white;
+  background: #0f00fd;
+}
+
+#std3 {
+  color: white;
+  background: #008001;
+}
+
+#std4 {
+  color: white;
+  background: #fea404;
+}
+
+#std5 {
+  color: white;
+  background: #000000;
+}
+
+/* SOFTWARE ENGINEER */
+#c3 {
+  margin: 30px;
+  margin-bottom: 14px;
+  font-size: 30px;
+  text-align: left;
+}
+
+#seh {
+  color: white;
+  background: black;
+}
+
+#sed {
+  color: black;
+  background: #d7c9bb;
+}
+
+#sef {
+  color: white;
+  background: black;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/* Manage Employees Table */
+#c4 {
+  margin: 30px;
+  margin-bottom: 14px;
+  font-size: 30px;
+  text-align: left;
+}
+
+.meh {
+  color: #0a1842;
+  background-color: #fea404;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.med1 {
+  color: white;
+  font-size: 18px;
+  background: #102a21;
+}
+
+.med2 {
+  color: white;
+  font-size: 18px;
+  background: #24143c;
+}
